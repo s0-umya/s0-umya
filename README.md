@@ -42,15 +42,6 @@ To secure a Data Analyst / Business Analyst role where I can apply analytical th
 - Coming Soon 
 
 ---
-
-## 📊 GitHub Analytics  
-
-![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s0-umya&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0-umya&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=s0-umya&theme=radical)
-
 ---
 
 ⭐ “Turning Data into Strategic Decisions.”
